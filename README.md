@@ -14,5 +14,3 @@
 - 4、**预览：** 浏览器打开 `/index.html` 查看结果
 
 > chrome浏览器 > 打印 > 目标另存为`PDF` > 更多设置无边距 > 即可导出
-
-![闵聪-简历](https://raw.githubusercontent.com/mcc108/resume/master/resume.jpg)
